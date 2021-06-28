@@ -1,4 +1,4 @@
-# js-to-ts-converter
+# Convertidor de js a ts
 
 Pequeña utilidad que escribí en un script para convertir una base de código JS a TypeScript,
 al intentar resolver algunos de los errores comunes de TypeScript que se recibirán
