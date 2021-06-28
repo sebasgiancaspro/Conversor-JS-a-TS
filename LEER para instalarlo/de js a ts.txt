@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Clona el repositorio de git:
+
+git clone https://github.com/gregjacobs/js-to-ts-converter.git
+
+cd js-to-ts-converter
+
+-------------------------------------------------------------------------------
+Instalar dependencias:
+
+npm install
+--------------------------------------------------------------------------------
+Ejecutar pruebas:
+
+npm test
+---------------------------------------------------------------------------------
+
+Pagina de descarga:
+
+https://www.npmjs.com/package/js-to-ts-converter
